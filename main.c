@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author hexpreso
+ * @author hxreborn
  * @version 1.0
  * @date 2025
  *
